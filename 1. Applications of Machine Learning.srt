@@ -1,0 +1,161 @@
+
+
+00:00:02,840 --> 00:00:05,260
+Hello and welcome to the course of machine learning,
+
+00:00:05,330 --> 00:00:06,680
+This is curial Eremenko,
+
+00:00:06,680 --> 00:00:12,200
+And I'd like to say that Hudlin and I are super excited to have inside this class and you're probably
+
+00:00:12,200 --> 00:00:14,730
+wondering why is there a timer on your screen,
+
+00:00:14,870 --> 00:00:20,390
+Well the reason is that we are so excited to have you on board that we want to get you excited and pumped
+
+00:00:20,450 --> 00:00:26,150
+about learning machine learning and applying what you learn in your day to day life,
+
+00:00:26,330 --> 00:00:32,760
+And that's why we're going to show you 10 examples of how machine learning is used in the real world,
+
+00:00:32,810 --> 00:00:37,810
+So you can get super excited that you are learning these things at the moment in this class,
+
+00:00:37,910 --> 00:00:40,100
+So we've got two minutes 20 seconds left,
+
+00:00:40,100 --> 00:00:47,330
+It's a huge challenge I'm going to throw all of these examples at you very quickly to get you very excited
+
+00:00:47,330 --> 00:00:48,370
+so let's get started,
+
+00:00:48,470 --> 00:00:53,850
+All right machine learning applications number one Facebook facial recognition,
+
+00:00:53,850 --> 00:00:56,480
+Everybody knows this when you upload a photo,
+
+00:00:56,550 --> 00:01:01,310
+Facebook somehow knows already who your friends are and tags them automatically,
+
+00:01:01,320 --> 00:01:04,200
+Well that's a machine learning algorithm in action,
+
+00:01:04,350 --> 00:01:06,460
+There's a device or still is you can still buy,
+
+00:01:06,470 --> 00:01:11,490
+It's called connected really didn't really lift off but that's like a marketing thing but it's a really
+
+00:01:11,490 --> 00:01:12,150
+cool device,
+
+00:01:12,150 --> 00:01:18,900
+It looks at your actions and you don't have to have a joystick and you can play games on your X-Box
+
+00:01:19,680 --> 00:01:24,870
+and actually it uses a machine learning algorithm called random forest which will discuss in great detail
+
+00:01:24,930 --> 00:01:26,860
+inside this class,
+
+00:01:26,870 --> 00:01:33,720
+Then there's the virtual reality headsets where you turn your head and the picture moves and how does
+
+00:01:33,720 --> 00:01:36,630
+the machine know how does headset know what to portray,
+
+00:01:36,630 --> 00:01:41,760
+Well that's a machine learning algorithm monitoring your actions and connecting them to the game or
+
+00:01:41,760 --> 00:01:46,110
+whatever you're looking at then on your phone so you have an iPhone,
+
+00:01:46,110 --> 00:01:52,140
+You'll see this little button where you can do text to speech to text or voice recognition,
+
+00:01:52,170 --> 00:01:56,820
+And when you click that button it recognizes what you're saying well that's a machine learning algorithm
+
+00:01:57,300 --> 00:01:58,900
+in action again,
+
+00:01:59,040 --> 00:02:04,740
+Then we've got robot dogs and they learn how to walk and it's very interesting how they teach them how
+
+00:02:04,740 --> 00:02:05,060
+to walk,
+
+00:02:05,060 --> 00:02:07,080
+They don't just put an algorithm in them,
+
+00:02:07,110 --> 00:02:15,540
+Most of the time they actually use a good algorithm or a machine a learning method called reinforcement
+
+00:02:15,540 --> 00:02:18,680
+learning so that dogs learn how to walk on their own,
+
+00:02:18,690 --> 00:02:21,490
+Very interesting and one other thing that I will discuss inside the score,
+
+00:02:21,490 --> 00:02:23,500
+So let's have a look how much time we have,
+
+00:02:23,670 --> 00:02:24,720
+Forty seconds,
+
+00:02:24,720 --> 00:02:25,470
+All right,
+
+00:02:25,560 --> 00:02:28,350
+So Facebook ads they know you better than you know yourself,
+
+00:02:28,350 --> 00:02:29,180
+Machine learning,
+
+00:02:29,280 --> 00:02:34,290
+Amazon Netflix audible all use machine learning for their recommender systems,
+
+00:02:34,320 --> 00:02:35,940
+Machine learning is used in medicine,
+
+00:02:35,940 --> 00:02:42,350
+I personally know a data scientist who uses machine learning to save lives of people on a daily basis,
+
+00:02:42,360 --> 00:02:48,180
+Machine learning is used in space to recognize certain areas of the world through maps and machine learning
+
+00:02:48,180 --> 00:02:52,700
+is used to explore new territories such as Mars,
+
+00:02:52,710 --> 00:02:54,380
+All right how are we going for time,
+
+00:02:54,420 --> 00:02:56,300
+Still have eight seconds left,
+
+00:02:56,310 --> 00:02:58,500
+Wonderful so hopefully that got you excited,
+
+00:02:58,500 --> 00:03:03,930
+That's just ten examples of machine learning and how it's used in the real life,
+
+00:03:03,930 --> 00:03:08,280
+And in this course we'll look at many different machine learning algorithms,
+
+00:03:08,340 --> 00:03:13,500
+Those are used in these examples and those are that are used in other examples so hopefully you're going
+
+00:03:13,500 --> 00:03:18,520
+to enjoy this class and find your own ways to apply machine learning in the real world,
+
+00:03:18,600 --> 00:03:20,210
+And we always see on the next tutorial,
+
+00:03:20,220 --> 00:03:22,050
+Until then intromission learning
+
