@@ -8,7 +8,7 @@ var ceros = "00:"
 
 const readFile = function(){
     try{
-        const dataBuffer = fs.readFileSync('1. Applications of Machine Learning.srt')
+        const dataBuffer = fs.readFileSync(process.argv[2])
         const data = dataBuffer.toString()
         return data;
     }catch(e){
@@ -31,6 +31,7 @@ const Parser = function(data){
     return newData;  
 }
 
+
 var final = Parser(readFile())
-fs.writeFileSync('1. Applications of Machine Learning.srt',final)
+fs.writeFileSync(process.argv[2],final)
 //console.log(regex.test(reloj))
