@@ -1,5 +1,5 @@
 const fs = require('fs')
-const vttFolder = 'C:/Users/daniel/Desktop/Subtitulos/VttFolder'
+const vttFolder = './VttFolder'
 
 let regex = /[0-9][0-9]:[0-9][0-9],[0-9][0-9][0-9]\s-->\s[0-9][0-9]:[0-9][0-9],[0-9][0-9][0-9]/; //not necesary g because we use regex in loop
 let retornado;
