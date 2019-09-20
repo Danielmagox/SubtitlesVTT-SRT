@@ -5,6 +5,7 @@ let retornado;
 var reloj = "03:20,220 --> 03:22,050"
 var newData = ""
 var ceros = "00:"
+var puntos = /\./g;
 
 const readFile = function(){
     try{
@@ -31,7 +32,14 @@ const Parser = function(data){
     return newData;  
 }
 
+const NativeData = function(data){
+    DataNet = data.replace("WEBVTT","")
+    DataNet = DataNet.replace(puntos,",");
+    return DataNet;
+}
 
-var final = Parser(readFile())
-fs.writeFileSync(process.argv[2],final)
+var used = NativeData(readFile())
+var final = Parser(used);
+
+fs.writeFileSync(process.argv[2].replace(".vtt",".srt"),final)
 //console.log(regex.test(reloj))
